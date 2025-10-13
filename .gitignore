@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+venv/
+env/
+.venv/
+
+# Ignore logs and session files under Module-4 voice_engine
+Module-4_VoiceRecognition_ConversationalEngine/voice_engine/logs/
+Module-4_VoiceRecognition_ConversationalEngine/voice_engine/*.log
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
