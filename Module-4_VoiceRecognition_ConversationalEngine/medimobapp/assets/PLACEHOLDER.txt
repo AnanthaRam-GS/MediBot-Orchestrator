@@ -1,0 +1,22 @@
+// This file contains placeholder text for image assets
+// The actual images should be created using design tools
+
+// For now, you can:
+// 1. Use online tools like https://icon.kitchen/ to generate app icons
+// 2. Or run the app without custom icons (Expo will use defaults)
+// 3. Add proper icons later before building the production APK
+
+// Required Assets:
+// - icon.png (1024x1024) - App icon
+// - splash.png (1242x2436) - Splash screen
+// - adaptive-icon.png (1024x1024) - Android adaptive icon
+// - favicon.png (48x48) - Web favicon
+
+// Temporary Solution:
+// The app will work fine without these assets during development.
+// Expo provides default placeholders automatically.
+
+// To add your own icons later:
+// 1. Create/download medical-themed icons
+// 2. Place them in this assets folder
+// 3. Make sure they match the dimensions specified in app.json
