@@ -1,5 +1,35 @@
 # 🚀 START HERE - Quick Setup for Medi Assist Bot
 
+## Team Members
+
+- Arun N  - CB.SC.U4CSE23406
+- Anantha Ram GS - CB.SC.U4CSE23408
+- Kokul Krishnan - CB.SC.U4CSE23462
+
+## What this app does (simple)
+
+This app is a voice-powered assistant for patients and visitors at a hospital/remote help camp. You can speak naturally and the app will:
+
+- Listen to what you say (any language)
+- Convert speech to text
+- Understand what you need (like register, book appointment, directions, or emergency help)
+- Give answers or take actions (bookings, show directions, call for help)
+- Speak the response back to you in the same language
+
+All steps are automatic and designed to be fast and easy.
+
+## Key features (simple list)
+
+- Speech-to-text in many languages
+- Translation and multilingual replies
+- Intent detection (registration, appointments, emergencies, etc.)
+- Voice responses (text-to-speech)
+- Simple mobile UI with one-tap recording
+- Emergency alert handling
+- Local logging for session review (logs are ignored in Git)
+- Easy to run with Expo (QR code)
+
+
 ## ⚡ 3-MINUTE QUICK START
 
 ### Step 1: Open PowerShell in this folder
