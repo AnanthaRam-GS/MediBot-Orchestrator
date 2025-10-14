@@ -1,4 +1,5 @@
 FallDetection module members:
+
 CB.SC.U4CSE23006 - Ajay N Mukunth
 
 CB.SC.U4CSE23010 - BC Sakthi Karthik 
@@ -55,3 +56,4 @@ updatedDetector.py (Main Structure): Focus on the run_fall_detector function, th
 
 
 fall_evidence/id15_20251014_095416_crop.jpg: This is an example of a cropped image that is saved as "evidence" when a fall is confirmed
+
