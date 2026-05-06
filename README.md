@@ -2,10 +2,6 @@
 
 <div align="center">
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Status: Active](https://img.shields.io/badge/Status-Active-success)](https://github.com/AnanthaRam-GS/MediBot-Orchestrator)
-[![GitHub Stars](https://img.shields.io/github/stars/AnanthaRam-GS/MediBot-Orchestrator?style=social)](https://github.com/AnanthaRam-GS/MediBot-Orchestrator)
-
 **An intelligent humanoid robot system designed to revolutionize outpatient management in hospitals through AI, facial recognition, and voice interaction.**
 
 [Features](#-key-features) • [Architecture](#-system-architecture) • [Modules](#-system-modules) • [Quick Start](#-quick-start) • [Documentation](#-documentation)
@@ -488,33 +484,6 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-## 👥 Team
-
-**Project Contributors:**
-- **Arun N** - CB.SC.U4CSE23406 - Core Architecture
-- **Anantha Ram GS** - CB.SC.U4CSE23408 - Facial Recognition & Database
-- **Kokul Krishnan** - CB.SC.U4CSE23462 - Voice & AI Integration
-
-**Module Leaders:**
-- **Module 3**: Facial Recognition & Biometrics
-- **Module 4**: Voice & Conversational AI
-- **Module 7**: Emergency Response System
-- **Module 8**: Queue Management
-
----
-
-## 📚 Documentation
-
-| Document | Purpose |
-|----------|---------|
-| [QUICKSTART.md](./Module-4_VoiceRecognition_ConversationalEngine/medimobapp/README.md) | 3-minute setup guide |
-| [TESTING_GUIDE.md](./docs/TESTING_GUIDE.md) | Test scenarios and procedures |
-| [API_REFERENCE.md](./docs/API_REFERENCE.md) | Complete API documentation |
-| [ARCHITECTURE.md](./docs/ARCHITECTURE.md) | System design details |
-| [DEPLOYMENT.md](./docs/DEPLOYMENT.md) | Production deployment guide |
-
----
-
 ## 📋 Requirements
 
 ### Hardware Requirements
@@ -568,12 +537,6 @@ python app.py  # Should show "Running on 127.0.0.1:5000"
 # Verify database connection
 mysql -h 10.147.145.165 -u robot_user -p robot_db
 ```
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
