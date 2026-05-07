@@ -1,0 +1,373 @@
+[
+  {
+    "ts": 1760415841.5673838,
+    "posture": "unknown",
+    "hip_y_norm": null,
+    "torso_angle": null,
+    "pose_conf": 0.0
+  },
+  {
+    "ts": 1760415841.7694519,
+    "posture": "unknown",
+    "hip_y_norm": null,
+    "torso_angle": null,
+    "pose_conf": 0.0
+  },
+  {
+    "ts": 1760415841.9876535,
+    "posture": "unknown",
+    "hip_y_norm": null,
+    "torso_angle": null,
+    "pose_conf": 0.0
+  },
+  {
+    "ts": 1760415842.2214139,
+    "posture": "unknown",
+    "hip_y_norm": null,
+    "torso_angle": null,
+    "pose_conf": 0.0
+  },
+  {
+    "ts": 1760415842.4180012,
+    "posture": "unknown",
+    "hip_y_norm": null,
+    "torso_angle": null,
+    "pose_conf": 0.0
+  },
+  {
+    "ts": 1760415842.6293967,
+    "posture": "unknown",
+    "hip_y_norm": null,
+    "torso_angle": null,
+    "pose_conf": 0.0
+  },
+  {
+    "ts": 1760415842.9078944,
+    "posture": "unknown",
+    "hip_y_norm": null,
+    "torso_angle": null,
+    "pose_conf": 0.0
+  },
+  {
+    "ts": 1760415846.2411597,
+    "posture": "unknown",
+    "hip_y_norm": null,
+    "torso_angle": null,
+    "pose_conf": 0.0
+  },
+  {
+    "ts": 1760415846.7668045,
+    "posture": "unknown",
+    "hip_y_norm": null,
+    "torso_angle": null,
+    "pose_conf": 0.0
+  },
+  {
+    "ts": 1760415846.959949,
+    "posture": "unknown",
+    "hip_y_norm": null,
+    "torso_angle": null,
+    "pose_conf": 0.0
+  },
+  {
+    "ts": 1760415847.136507,
+    "posture": "unknown",
+    "hip_y_norm": null,
+    "torso_angle": null,
+    "pose_conf": 0.0
+  },
+  {
+    "ts": 1760415847.2905297,
+    "posture": "standing",
+    "hip_y_norm": 0.40758326298867664,
+    "torso_angle": 56.286415343288255,
+    "pose_conf": 0.6585662789417036
+  },
+  {
+    "ts": 1760415847.5053558,
+    "posture": "standing",
+    "hip_y_norm": 0.38875116674850385,
+    "torso_angle": 50.46275580579408,
+    "pose_conf": 0.6589233008298007
+  },
+  {
+    "ts": 1760415847.7055643,
+    "posture": "standing",
+    "hip_y_norm": 0.3544890934911867,
+    "torso_angle": 53.001620144010204,
+    "pose_conf": 0.6652187524419843
+  },
+  {
+    "ts": 1760415847.896051,
+    "posture": "standing",
+    "hip_y_norm": 0.3522301591311892,
+    "torso_angle": 52.734226503565885,
+    "pose_conf": 0.6750655327782487
+  },
+  {
+    "ts": 1760415848.0840862,
+    "posture": "standing",
+    "hip_y_norm": 0.38492065432171024,
+    "torso_angle": 49.396996680041724,
+    "pose_conf": 0.6769903035777988
+  },
+  {
+    "ts": 1760415848.3300567,
+    "posture": "standing",
+    "hip_y_norm": 0.38518137208496533,
+    "torso_angle": 51.377617582522504,
+    "pose_conf": 0.675631247235067
+  },
+  {
+    "ts": 1760415848.5873723,
+    "posture": "standing",
+    "hip_y_norm": 0.38799836706991,
+    "torso_angle": 50.733260137136575,
+    "pose_conf": 0.6683126873139179
+  },
+  {
+    "ts": 1760415848.8424032,
+    "posture": "standing",
+    "hip_y_norm": 0.3810855321586132,
+    "torso_angle": 48.29924951797899,
+    "pose_conf": 0.6586609171195463
+  },
+  {
+    "ts": 1760415849.0485427,
+    "posture": "standing",
+    "hip_y_norm": 0.37196197180698315,
+    "torso_angle": 50.17219883307815,
+    "pose_conf": 0.6533071434859073
+  },
+  {
+    "ts": 1760415849.2572436,
+    "posture": "standing",
+    "hip_y_norm": 0.3737654047397276,
+    "torso_angle": 51.317928937463,
+    "pose_conf": 0.652328932375619
+  },
+  {
+    "ts": 1760415849.443882,
+    "posture": "standing",
+    "hip_y_norm": 0.44322944674640896,
+    "torso_angle": 50.559695045411296,
+    "pose_conf": 0.6427806746779066
+  },
+  {
+    "ts": 1760415849.6451561,
+    "posture": "sitting",
+    "hip_y_norm": 0.5602867558288077,
+    "torso_angle": 53.290638227992346,
+    "pose_conf": 0.6367791385361643
+  },
+  {
+    "ts": 1760415849.8303895,
+    "posture": "sitting",
+    "hip_y_norm": 0.5384236241380373,
+    "torso_angle": 51.70802892633635,
+    "pose_conf": 0.6286801397800446
+  },
+  {
+    "ts": 1760415850.010454,
+    "posture": "sitting",
+    "hip_y_norm": 0.5790593716005484,
+    "torso_angle": 54.01144086360083,
+    "pose_conf": 0.6159290610389276
+  },
+  {
+    "ts": 1760415850.1951227,
+    "posture": "sitting",
+    "hip_y_norm": 0.6103509159137805,
+    "torso_angle": 51.49047845033432,
+    "pose_conf": 0.6061289908759522
+  },
+  {
+    "ts": 1760415850.379668,
+    "posture": "sitting",
+    "hip_y_norm": 0.5900244769950708,
+    "torso_angle": 53.13099026012897,
+    "pose_conf": 0.5971653538219857
+  },
+  {
+    "ts": 1760415850.5783365,
+    "posture": "sitting",
+    "hip_y_norm": 0.6030928414935867,
+    "torso_angle": 53.708842516185605,
+    "pose_conf": 0.5856008660612684
+  },
+  {
+    "ts": 1760415850.7819066,
+    "posture": "sitting",
+    "hip_y_norm": 0.6084409683321913,
+    "torso_angle": 50.46007786765531,
+    "pose_conf": 0.5767178422573841
+  },
+  {
+    "ts": 1760415850.9683616,
+    "posture": "sitting",
+    "hip_y_norm": 0.5884179095427196,
+    "torso_angle": 48.39068354220923,
+    "pose_conf": 0.5695244493809614
+  },
+  {
+    "ts": 1760415851.1659777,
+    "posture": "sitting",
+    "hip_y_norm": 0.5732576467096806,
+    "torso_angle": 51.124668811331475,
+    "pose_conf": 0.5724697578133959
+  },
+  {
+    "ts": 1760415851.35151,
+    "posture": "sitting",
+    "hip_y_norm": 0.5665480714291334,
+    "torso_angle": 50.32630167985836,
+    "pose_conf": 0.5724164816466245
+  },
+  {
+    "ts": 1760415851.557879,
+    "posture": "sitting",
+    "hip_y_norm": 0.5607287105793755,
+    "torso_angle": 51.27149203620527,
+    "pose_conf": 0.5701797423940717
+  },
+  {
+    "ts": 1760415851.7930925,
+    "posture": "lying",
+    "hip_y_norm": 0.9422802127276858,
+    "torso_angle": 65.88650199596974,
+    "pose_conf": 0.549274794531591
+  },
+  {
+    "ts": 1760415852.0289357,
+    "posture": "sitting",
+    "hip_y_norm": 0.5873198703552286,
+    "torso_angle": 35.18646949507237,
+    "pose_conf": 0.564001983991175
+  },
+  {
+    "ts": 1760415852.2805583,
+    "posture": "sitting",
+    "hip_y_norm": 1.4417157875994842,
+    "torso_angle": 54.688453666332386,
+    "pose_conf": 0.5335745007702799
+  },
+  {
+    "ts": 1760415852.4824338,
+    "posture": "sitting",
+    "hip_y_norm": 1.2948175884783268,
+    "torso_angle": 59.45737957632588,
+    "pose_conf": 0.5514754341407255
+  },
+  {
+    "ts": 1760415852.7222958,
+    "posture": "lying",
+    "hip_y_norm": 1.4117781377087038,
+    "torso_angle": 61.999891159444616,
+    "pose_conf": 0.5665829466147856
+  },
+  {
+    "ts": 1760415852.9224555,
+    "posture": "lying",
+    "hip_y_norm": 1.039109389235576,
+    "torso_angle": 67.71753850498082,
+    "pose_conf": 0.5763383182612333
+  },
+  {
+    "ts": 1760415853.1094127,
+    "posture": "lying",
+    "hip_y_norm": 1.0336515209327142,
+    "torso_angle": 64.43696121789151,
+    "pose_conf": 0.586316060387727
+  },
+  {
+    "ts": 1760415853.3033688,
+    "posture": "lying",
+    "hip_y_norm": 0.5236604529122512,
+    "torso_angle": 76.59532609754739,
+    "pose_conf": 0.5795527308276205
+  },
+  {
+    "ts": 1760415853.5584111,
+    "posture": "lying",
+    "hip_y_norm": 0.39389365473762156,
+    "torso_angle": 78.8732267102847,
+    "pose_conf": 0.5667354828028968
+  },
+  {
+    "ts": 1760415853.7381299,
+    "posture": "lying",
+    "hip_y_norm": 0.2422331742166231,
+    "torso_angle": 82.79858562914441,
+    "pose_conf": 0.5611577828725179
+  },
+  {
+    "ts": 1760415854.4951684,
+    "posture": "lying",
+    "hip_y_norm": -0.32204224516948066,
+    "torso_angle": 83.7828269007347,
+    "pose_conf": 0.5470874544345972
+  },
+  {
+    "ts": 1760415854.7280366,
+    "posture": "lying",
+    "hip_y_norm": -0.12354508913122117,
+    "torso_angle": 85.09195273032421,
+    "pose_conf": 0.5451910635738662
+  },
+  {
+    "ts": 1760415854.9017186,
+    "posture": "lying",
+    "hip_y_norm": -0.004279813015212615,
+    "torso_angle": 84.59656074768516,
+    "pose_conf": 0.5450217954137109
+  },
+  {
+    "ts": 1760415855.1022964,
+    "posture": "lying",
+    "hip_y_norm": 0.0672140408695365,
+    "torso_angle": 82.26557148328001,
+    "pose_conf": 0.5459508726542647
+  },
+  {
+    "ts": 1760415855.2991858,
+    "posture": "lying",
+    "hip_y_norm": 0.07870329930447043,
+    "torso_angle": 82.63401368632091,
+    "pose_conf": 0.5503277204027681
+  },
+  {
+    "ts": 1760415855.465609,
+    "posture": "lying",
+    "hip_y_norm": 0.04984728686201076,
+    "torso_angle": 85.22283390927352,
+    "pose_conf": 0.5519303681723999
+  },
+  {
+    "ts": 1760415855.6779006,
+    "posture": "lying",
+    "hip_y_norm": 0.07093659624612579,
+    "torso_angle": 83.99336606219292,
+    "pose_conf": 0.549841698597778
+  },
+  {
+    "ts": 1760415855.864714,
+    "posture": "lying",
+    "hip_y_norm": -0.07697066299927731,
+    "torso_angle": 83.8667613152558,
+    "pose_conf": 0.5459538646268122
+  },
+  {
+    "ts": 1760415856.0803816,
+    "posture": "lying",
+    "hip_y_norm": -0.09791682194821381,
+    "torso_angle": 82.4123361489372,
+    "pose_conf": 0.5399204629162947
+  },
+  {
+    "ts": 1760415856.3674443,
+    "posture": "unknown",
+    "hip_y_norm": null,
+    "torso_angle": null,
+    "pose_conf": 0.0
+  }
+]
